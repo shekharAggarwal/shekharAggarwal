@@ -1,4 +1,4 @@
-### Hello, I'm [Shekhar Aggarwal](shekharaggarwal.github.io) 👋
+### Hello, I'm [Shekhar Aggarwal](https://shekharaggarwal.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharAggarwal&label=Views&color=blue&style=plastic" alt="shekharAggarwal" /> </p>
 
