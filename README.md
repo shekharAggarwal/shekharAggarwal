@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [WholeShop](https://github.com/shekharAggarwal/WholeShop)
+- 🔭 I’m currently working on private project. <!--[WholeShop](https://github.com/shekharAggarwal/WholeShop)-->
 - 🌱 I’m currently learning [Flutter](flutter.dev)
 - 👯 I’m looking to collaborate on [DriverAtHome](https://github.com/shekharAggarwal/DAH)
 - 🤔 I’m looking for help with VelocityX Docs.
