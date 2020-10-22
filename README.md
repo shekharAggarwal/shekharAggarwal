@@ -17,17 +17,12 @@
 <a href="https://instagram.com/theshekharaggarwal/">
   <img align="left" alt="Shekhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!--<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
--->
 <br/>
 <br/>
 
 - 🔭 I’m currently working on private project. <!--[WholeShop](https://github.com/shekharAggarwal/WholeShop)-->
 - 🌱 I’m currently learning [Flutter](flutter.dev)
 - 👯 I’m looking to collaborate on [DriverAtHome](https://github.com/shekharAggarwal/DAH)
-<!-- 🤔 I’m looking for help with VelocityX Docs.-->
 - 💬 Ask me about Flutter or any tech related stuff.[here](https://github.com/shekharAggarwal/shekharAggarwal//issues)
 - 📫 How to reach me: [Twitter- ShekharAggarwal](https://twitter.com/ShekharAggarw17)
 - 😄 Pronouns: He/His
