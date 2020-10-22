@@ -27,15 +27,15 @@
 - 🔭 I’m currently working on private project. <!--[WholeShop](https://github.com/shekharAggarwal/WholeShop)-->
 - 🌱 I’m currently learning [Flutter](flutter.dev)
 - 👯 I’m looking to collaborate on [DriverAtHome](https://github.com/shekharAggarwal/DAH)
-- 🤔 I’m looking for help with VelocityX Docs.
+<!-- 🤔 I’m looking for help with VelocityX Docs.-->
 - 💬 Ask me about Flutter or any tech related stuff.[here](https://github.com/shekharAggarwal/shekharAggarwal//issues)
 - 📫 How to reach me: [Twitter- ShekharAggarwal](https://twitter.com/ShekharAggarw17)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I just listen punjabi songs while coding
 
-[![Twitter: Shekhar Aggarwal](https://img.shields.io/twitter/follow/Shekhar?style=social)](https://twitter.com/ShekharAggarw17)
+[![Twitter: Shekhar Aggarwal](https://img.shields.io/twitter/follow/ShekharAggarw17?style=social)](https://twitter.com/ShekharAggarw17)
 [![Linkedin: Shekhar Aggarwal](https://img.shields.io/badge/-Shekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shekhar-aggarwal-514278187/)](https://linkedin.com/in/shekhar-aggarwal-514278187)
-[![GitHub shekharAggarwal](https://img.shields.io/github/followers/Shekhar?label=follow&style=social)](https://github.com/shekharAggarwal)
+[![GitHub shekharAggarwal](https://img.shields.io/github/followers/shekharAggarwal?label=follow&style=social)](https://github.com/shekharAggarwal)
 
 
 **Languages and Tools:**  
