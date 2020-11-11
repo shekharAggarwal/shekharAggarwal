@@ -56,7 +56,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=DAH&theme=light" />
 </a>
 
-<a href="https://github.com/shekharAggarwal/DAH">
+<a href="https://github.com/shekharAggarwal/BloodDonation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=BloodDonation&theme=light" />
 </a>
 <div align="center">
