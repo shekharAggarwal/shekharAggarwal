@@ -5,7 +5,7 @@
 <a href="https://twitter.com/ShekharAggarw17">
   <img align="left" alt="Shekhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/shekhar-aggarwal-514278187">
+<a href="https://www.linkedin.com/in/shekharaggarwal">
   <img align="left" alt="Shekhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/shekharAggarwal">
@@ -29,7 +29,7 @@
 - ⚡ Fun fact: I just listen punjabi songs while coding
 
 [![Twitter: Shekhar Aggarwal](https://img.shields.io/twitter/follow/ShekharAggarw17?style=social)](https://twitter.com/ShekharAggarw17)
-[![Linkedin: Shekhar Aggarwal](https://img.shields.io/badge/-Shekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shekhar-aggarwal-514278187/)](https://linkedin.com/in/shekhar-aggarwal-514278187)
+[![Linkedin: Shekhar Aggarwal](https://img.shields.io/badge/-Shekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekharaggarwal/)](https://www.linkedin.com/in/shekharaggarwal)
 [![GitHub shekharAggarwal](https://img.shields.io/github/followers/shekharAggarwal?label=follow&style=social)](https://github.com/shekharAggarwal)
 
 
