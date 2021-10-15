@@ -20,10 +20,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on private project. <!--[WholeShop](https://github.com/shekharAggarwal/WholeShop)-->
-- 🌱 I’m currently learning [Flutter](flutter.dev)
-- 👯 I’m looking to collaborate on [DriverAtHome](https://github.com/shekharAggarwal/DAH)
-- 💬 Ask me about Flutter or any tech related stuff.[here](https://github.com/shekharAggarwal/shekharAggarwal//issues)
+- 🔭 I’m currently working on [Sorting Visualization](https://github.com/shekharAggarwal/Sorting-Visualization).
+- 🌱 I’m currently learning [Flutter](flutter.dev).
+- 👯 I’m looking to collaborate on [Sorting Visualization](https://github.com/shekharAggarwal/Sorting-Visualization).
+- 💬 Ask me about Flutter or any tech related stuff [here](https://github.com/shekharAggarwal/shekharAggarwal//issues).
 - 📫 How to reach me: [Twitter- ShekharAggarwal](https://twitter.com/ShekharAggarw17)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I just listen punjabi songs while coding
@@ -49,6 +49,9 @@
 <a href="https://github.com/shekharAggarwal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=light&line_height=27" alt="Shekhar's github stats"/>
 </a>
+<a href="https://github.com/shekharAggarwal/Sorting-Visualization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Sorting-Visualization&theme=light" />
+</a>
 <a href="https://github.com/shekharAggarwal/Rakt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Rakt&theme=light" />
 </a>
@@ -58,9 +61,6 @@
 
 <a href="https://github.com/shekharAggarwal/Food-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Food-App&theme=light" />
-</a>
-<a href="https://github.com/shekharAggarwal/DAH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=DAH&theme=light" />
 </a>
 
 <div align="center">
