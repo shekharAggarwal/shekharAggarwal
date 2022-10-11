@@ -42,15 +42,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
+**Stats:**  
 
 <a href="https://github.com/shekharAggarwal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharAggarwal&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/shekharAggarwal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=light&line_height=27" alt="Shekhar's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Shekhar's github stats"/>
 </a>
-<a href="https://github.com/shekharAggarwal/Sorting-Visualization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Sorting-Visualization&theme=light" />
+ 
+ **Top Repositories:**  
+ 
+<a href="https://github.com/shekharAggarwal/Image-Recognition-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Image-Recognition-App&theme=light" />
 </a>
 <a href="https://github.com/shekharAggarwal/Rakt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Rakt&theme=light" />
@@ -58,9 +62,8 @@
 <a href="https://github.com/shekharAggarwal/Password-Input">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Password-Input&theme=light" />
 </a>
-
-<a href="https://github.com/shekharAggarwal/Food-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Food-App&theme=light" />
+<a href="https://github.com/shekharAggarwal/CarYatri">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=CarYatri&theme=light" />
 </a>
 
 <div align="center">
