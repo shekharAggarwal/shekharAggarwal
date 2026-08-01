@@ -55,11 +55,11 @@ I am a passionate **Backend Engineer** with deep expertise in **Java** and the *
 
 <div align="center">
   <a href="https://github.com/shekharAggarwal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharAggarwal&layout=compact&theme=radical&hide=dart,html,css" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shekharAggarwal&layout=compact&theme=radical&hide=dart,html,css" />
   </a>
   <br/><br/>
   <a href="https://github.com/shekharAggarwal">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Shekhar's github stats"/>
+   <img align="center" src="https://github-stats-extended.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Shekhar's github stats"/>
   </a>
 </div>
 
@@ -69,13 +69,13 @@ I am a passionate **Backend Engineer** with deep expertise in **Java** and the *
 
 <div align="center">
   <a href="https://github.com/shekharAggarwal/fintech-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=fintech-project&theme=radical" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=shekharAggarwal&repo=fintech-project&theme=radical" />
   </a>
   <a href="https://github.com/shekharAggarwal/spring-boot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=spring-boot&theme=radical" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=shekharAggarwal&repo=spring-boot&theme=radical" />
   </a>
   <a href="https://github.com/shekharAggarwal/Password-Input">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shekharAggarwal&repo=Password-Input&theme=radical" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=shekharAggarwal&repo=Password-Input&theme=radical" />
   </a>
 </div>
 
